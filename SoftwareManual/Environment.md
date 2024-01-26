@@ -32,6 +32,9 @@ The participants need to prepare an Ubuntu computer and install the Robot Operat
 
 Please use a gigabit switching hub.
 
+[download unity]:https://unity3d.com/get-unity/download/archive "download"
+[ros installation]:http://wiki.ros.org/noetic/Installation/Ubuntu "installation"
+
 ----------------------------------
 
 # Software
