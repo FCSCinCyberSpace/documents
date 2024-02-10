@@ -17,7 +17,8 @@ SIGVerse :https://github.com/SIGVerse/sigverse_unity_project/wiki
 Download site : https://github.com/SIGVerse/sigverse_unity_project
 
 今回の競技会で用いるコンビニエンスストアの環境例を以下に示す
-
+![image1](./retail_store_model.png)
+![image2](./retail_store_model2.png)
 このように、250点以上の商品が実装されており，すでにGitHub上からダウンロードできる体制が整っている．
 
 
