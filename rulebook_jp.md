@@ -156,9 +156,9 @@ zoom などの遠隔コミュニケーションツールを使うことも可能
 
 ### 賞金
 順位に応じて，以下のように，３位までのチームに対して表彰状および賞金の提供が予定されている．
-- 1st place: 300 USD + certificate    
-- 2nd place: 150 USD + certificate
-- 3rd place:  certificate
+- 1st place: 100,000円(日本円) + certificate    
+- 2nd place:  50,000円(日本円) + certificate
+- 3rd place:  30,000円(日本円) + certificate
 
 
 
