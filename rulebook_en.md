@@ -102,7 +102,10 @@ Participants will control the robot's conversational function using the followin
 - 3D models of products
 - Table data mapping product IDs to labels (product names)
 
-## Competition Task 2: Future Convenience Store Design
+### Additional tools / Internet connection
+The participants will build a software to realize such an intelligent dialogue system for customer service robots. The participants can use OpenAI API or related LLM tools; however, we cannot guarantee the quality of the Internet connection at the competition site. If you use such an external cloud calculator, you must manage the risk yourself. Please note that installing your own wireless router will not be allowed.
+
+## Competition Task 2: Future Convenience Store Visionary Design
 In this competition, instead of completing tasks according to predefined rules, participants will propose possibilities for customer service and intelligent human-robot collaboration systems in future convenience stores in a presentation format based on their own creative ideas. The novelty, feasibility, and technical challenges of their ideas will be evaluated. The evaluation will focus on intelligent systems, service systems, and other systems mainly involving interaction with humans, which are expected to be useful in future convenience stores. Tasks that do not involve any interaction with humans, such as autonomously cleaning toilets, are not included. Teams are encouraged to demonstrate the latest research and development on new approaches and applications related to customer service and employee support systems in a cyber environment. Specific examples of systems/proposals subject to evaluation include but are not limited to:
 
 - Planning systems that dynamically change and optimize the roles of service robots and employees.
