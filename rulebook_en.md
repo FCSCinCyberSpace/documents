@@ -85,7 +85,7 @@ The table below lists specific values for points awarded or deducted:
 
 Note: The "Give Up" action can be taken at any time. In this case, the score for the session where "Give Up" occurred becomes 0, and the competition continues with the next session. If the system encounters an error making it impossible to continue, the competition resumes from the session following the error. "Give Up" can be initiated either by the robot's software autonomously or by the operator forcibly declaring "Give Up." In the former case, the competition proceeds automatically to the next session, while in the latter case, the competition organizers configure the software to resume from the next session. Regardless of when "Give Up" or an error occurs, the score for the corresponding session is reset to 0, regardless of the points earned up to that point.
 
-Participants will control the robot's conversational function using the following APIs. The APIs will be provided in Python and ROS, and detailed documentation is scheduled to be released from mid to late February 2024.
+Participants will control the robot's conversational function using the following APIs. The APIs will be provided in Python and ROS, and detailed documentation is scheduled to be released around the end of February 2024.
 
 ### List of APIs for Participants
 (Communication commands between participants' software and the competition system)
