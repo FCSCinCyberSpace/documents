@@ -14,6 +14,7 @@ Participants will benefit from focusing solely on software development without t
 The based software system used in the competition is an open system called SIGVerse, which is available to all users, including competitors, free of charge.
 
 SIGVerse :https://github.com/SIGVerse/sigverse_unity_project/wiki
+
 Download site : https://github.com/SIGVerse/sigverse_unity_project
 
 Examples of a convenience store environment used in this competition is shown below
@@ -83,11 +84,14 @@ The table below lists specific values for points awarded or deducted:
 | Ask questions more than 5 times (n times) | subtract (n-5) , max subtraction is 20 |
 | Give up / Error of user's software     | Let the score of the session 0 |
 
-Note: The "Give Up" action can be taken at any time. In this case, the score for the session where "Give Up" occurred becomes 0, and the competition continues with the next session. If the system encounters an error making it impossible to continue, the competition resumes from the session following the error. "Give Up" can be initiated either by the robot's software autonomously or by the operator forcibly declaring "Give Up." In the former case, the competition proceeds automatically to the next session, while in the latter case, the competition organizers configure the software to resume from the next session. Regardless of when "Give Up" or an error occurs, the score for the corresponding session is reset to 0, regardless of the points earned up to that point.
+Note: The "Give Up" action can be taken at any time by the software developed by participants. In this case, the score for the session where "Give Up" occurred becomes 0, and the competition continues with the next session. If the software system, developed by participants, encounters an error making it impossible to continue, the competition resumes from the next session.
 
-Participants will control the robot's conversational function using the following APIs. The APIs will be provided in Python and ROS, and detailed documentation is scheduled to be released around the end of February 2024.
+Regardless of when "Give Up" or an error occurs, the score for the corresponding session is reset to 0, regardless of the points earned up to that point.
 
 ### List of APIs for Participants
+
+Participants will control the robot's conversational function using the following APIs. The APIs will be provided in ROS, and detailed documentation is scheduled to be released around the end of February 2024.
+
 (Communication commands between participants' software and the competition system)
 - Receiving natural language requests from customers
 - Receiving image data used for customer requests
