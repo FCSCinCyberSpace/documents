@@ -51,14 +51,12 @@ Robot: *Places green tea in the shopping basket* Task completed.
 
 Ideal Response Example 2:
 ```
-Customer: "I'd like some chocolate and potato chips."
-Robot: "For chocolate, we have dark chocolate, milk chocolate, and strawberry chocolate. Would you like milk chocolate?"
-Customer: "Yes."
+Customer: "I'd like some potato chips."
 Robot: "For potato chips, we have salted, consomme, and BBQ flavors. Would you like consomme?"
 Customer: "Yes."
 Robot: "We have small and large sizes. Would you like the small size?"
 Customer: "No."
-Robot: "Understood. I will get you milk chocolate and consomme-flavored potato chips in the small size." *Places the relevant items in the shopping basket* Task completed.
+Robot: "Understood. I will get you big size consomme-flavored potato chips." *Places the relevant items in the shopping basket* Task completed.
 ```
 
 Ideal Response Example 3:
@@ -72,7 +70,7 @@ Robot: "I will bring you lemon tea." *Places the relevant item in the shopping b
 
 Each correctly placed item in the shopping basket earns 10 points, while each incorrectly placed item deducts 10 points. Additionally, asking more than 5 questions for a single request results in a deduction of 1 point per question. Completing the task with fewer than 5 questions results in additional points based on the reduced number of questions asked. Thus, avoiding unnecessary questions is essential. The competition involves repeating various requests multiple times. Each repetition of a request is referred to as a session, with at least 10 sessions per competition. The exact number of sessions for the competition will be announced approximately two weeks before the event.
 
-Scores are accumulated for each session, and the highest total score among the participating teams is normalized to 100 points, representing each team's score for "Interactive Customer Service."
+If the point of a certain session becomes negative value, let the point of the session zero. Points are accumulated for all sessions, and the highest total score among the participating teams is normalized to 100 points, representing each team's score for "Interactive Customer Service."
 
 The table below lists specific values for points awarded or deducted:
 
@@ -81,7 +79,7 @@ The table below lists specific values for points awarded or deducted:
 | Scceeded to put suitable products into a cage  | +10 per product |
 | Filed: put wrong products into a cage  | -10 per product | 
 | Complete the task with no more than 5 times (n times) questions | +2 x (5-n) |
-| Ask questions more than 5 times (n times) | subtract (n-5) , max subtraction is 20 |
+| Ask questions more than 5 times (n times) | subtract (n-5) |
 | Give up / Error of user's software     | Let the score of the session 0 |
 
 Note: The "Give Up" action can be taken at any time by the software developed by participants. In this case, the score for the session where "Give Up" occurred becomes 0, and the competition continues with the next session. If the software system, developed by participants, encounters an error making it impossible to continue, the competition resumes from the next session.
