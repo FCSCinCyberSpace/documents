@@ -80,11 +80,12 @@ The table below lists specific values for points awarded or deducted:
 | Filed: put wrong products into a cage  | -10 per product | 
 | Complete the task with no more than 5 times (n times) questions | +2 x (5-n) |
 | Ask questions more than 5 times (n times) | subtract (n-5) |
-| Give up / Error of user's software     | Let the score of the session 0 |
+| Give up                                   | The earned points up to the give up shall be the score for that session|
+| Error of participant's software           | Let the score of the session 0 |
 
-Note: The "Give Up" action can be taken at any time by the software developed by participants. In this case, the score for the session where "Give Up" occurred becomes 0, and the competition continues with the next session. If the software system, developed by participants, encounters an error making it impossible to continue, the competition resumes from the next session.
+Note: The "Give Up" action can be taken at any time by the software developed by participants. In this case, the score for that session will be the earned points when "Give Up" was occurred, and the competition continues with the next session.
 
-Regardless of when "Give Up" or an error occurs, the score for the corresponding session is reset to 0, regardless of the points earned up to that point.
+If the software system, developed by participants, encounters an error making it impossible to continue, the competition resumes from the next session. The point of that session will be zero, regardless of the points earned up to the error.
 
 ### List of APIs for Participants
 
