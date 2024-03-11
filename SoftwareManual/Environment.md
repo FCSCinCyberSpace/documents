@@ -1,5 +1,3 @@
-# Under Construction
-
 The basic configuration for the competitions requires a Windows computer to run SIGVerse as well as an Ubuntu computer to run ROS nodes created by the participants.   
 These two computers should be connected to a switching hub.  
 
@@ -28,7 +26,7 @@ The participants need to prepare an Ubuntu computer and install the Robot Operat
 | 1  | OS         | Ubuntu 20.04    |
 | 2  | ROS version| [Noetic Ninjemys][ros installation] |
 | 3  | IP Address | 192.168.0.2    |
-| 4  | Note       | Pending -> Wireless communication during competition is prohibited. |
+| 4  | Note       | - |
 
 ### Switching Hub
 
