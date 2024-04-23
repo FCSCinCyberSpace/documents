@@ -14,7 +14,7 @@ The competition organizer will prepare the Windows computer to run the programs 
 | 1  | OS         | Windows 10     |
 | 2  | Unity      | [Unity 2021.3.16f1][download unity] |
 | 3  | IP Address | 192.168.0.1    |
-| 4  | Note       | System requirements for Unity are as below.<br>https://docs.unity3d.com/Manual/system-requirements.html
+| 4  | Note       | System requirements for Unity are as below.<br>https://docs.unity3d.com/Manual/system-requirements.html<br>Please add the English language pack in the following settings if the primary language of your operating system is not English:<br>Start > Settings > Time & language > Speech |
 
 ### Ubuntu PC
 
