@@ -1,6 +1,5 @@
 # WRS Future Convenience Store Challenge in Cyber Space
-## Rulebook  (ver.0)
-**The final Rulebook will be finalized around the end of March 2024.**
+## Rulebook  (ver.1)
 
 ## Aim of the competition
 
@@ -130,7 +129,7 @@ Each team has a total of 20 minutes, including time for presentation and Q&A. Th
 
 The language used for slides and oral explanations in the presentation must be English. While remote communication tools such as Zoom can be used, it is not recommended due to the potential instability of the venue's network communication environment. However, teams may use these tools at their own discretion. As the presentations will be live-streamed or broadcasted afterward on YouTube, the use of music that violates copyright during the presentation is not allowed.
 
-Judges for evaluation will be appointed and determined by the competition organizers, with a minimum of four judges evaluating each presentation. Since some judges may not be native English speakers, the competition organizers will provide translation assistance during the Q&A session if necessary. Additionally, to ensure that non-experts in robotics and information technology can also participate as judges, presentations should be understandable to the general public without excessive use of technical terms.
+Judges for evaluation will be appointed and determined by the competition organizers, with three judges evaluating each presentation. Since some judges may not be native English speakers, the competition organizers will provide translation assistance during the Q&A session if necessary. Additionally, to ensure that non-experts in robotics and information technology can also participate as judges, presentations should be understandable to the general public without excessive use of technical terms.
 
 The evaluation criteria are as follows:
 - Academic novelty and originality of the underlying technology of the proposed system
@@ -145,9 +144,9 @@ The final winner will be determined by adding the scores from Competition 1 "Int
 
 ### Competition Schedule & Timetable (Tentative)
 - Setup (13th May) (Same day as the first-day workshop)
-- Day1: (14th May) 12:30--15:00 Interactive Customer Service
-- Day2: (15th May) 9:00--11:30 Future Convenience Store Design
-- Award & Closing 12:30--13:00
+- Day1: (14th May) 14:00--17:20 Interactive Customer Service
+- Day2: (15th May) 15:00--16:00 Future Convenience Store Design
+- Award & Closing 16:30--17:00
 
 ### Prize Money
 Based on the ranking, the top three teams will be awarded certificates and prize money as follows:
